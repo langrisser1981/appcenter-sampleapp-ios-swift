@@ -1,15 +1,15 @@
 PODS:
-  - AppCenter (2.5.1):
-    - AppCenter/Analytics (= 2.5.1)
-    - AppCenter/Crashes (= 2.5.1)
-  - AppCenter/Analytics (2.5.1):
+  - AppCenter (3.3.2):
+    - AppCenter/Analytics (= 3.3.2)
+    - AppCenter/Crashes (= 3.3.2)
+  - AppCenter/Analytics (3.3.2):
     - AppCenter/Core
-  - AppCenter/Core (2.5.1)
-  - AppCenter/Crashes (2.5.1):
+  - AppCenter/Core (3.3.2)
+  - AppCenter/Crashes (3.3.2):
     - AppCenter/Core
-  - AppCenter/Distribute (2.5.1):
+  - AppCenter/Distribute (3.3.2):
     - AppCenter/Core
-  - AppCenter/Push (2.5.1):
+  - AppCenter/Push (3.3.2):
     - AppCenter/Core
   - VSMobileCenterExtensions (0.9.1)
 
@@ -25,7 +25,7 @@ SPEC REPOS:
     - VSMobileCenterExtensions
 
 SPEC CHECKSUMS:
-  AppCenter: fddcbac6e4baae3d93a196ceb0bfe0e4ce407dec
+  AppCenter: aba7de06e4c2184f90dc84f7866bd07f82427d69
   VSMobileCenterExtensions: 5f8b4b284f6817c1d58e860bf7ad0945f1244733
 
 PODFILE CHECKSUM: 88dda23b55749ff77cb7e2a56e89be563b7f6a81
